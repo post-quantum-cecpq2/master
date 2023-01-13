@@ -1,6 +1,4 @@
-node_modules
-package-lock.json
-* @actions/actions-runtime
+regex
 * @
 * @owner
 '
@@ -37,8 +35,16 @@ $
 ***/***
 ***/**
 ***/*
-
 @
+VisibleArea
+InvisibleArea
+SafeArea
+allsideArea
+seeingArea
+GhostArea
+UnvailableArea
+AvailableArea
+AllArea
 PreAre
 PraAre
 BeginningArea
