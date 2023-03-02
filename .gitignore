@@ -2,6 +2,9 @@ node_modules
 export export=/
 export import=/
 export =/
+export anywhere=/
+export internet=/
+export .OUT=/
 package-lock.json
 * @actions/actions-runtime
 * @
